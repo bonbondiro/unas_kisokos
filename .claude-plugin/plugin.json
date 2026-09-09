@@ -1,0 +1,10 @@
+{
+  "name": "unas-webshop",
+  "description": "Unas (unas.hu) webáruház-rendszer szakértői tudásbázis: admin funkciók, marketing- és automatizmus-logika, elhagyott kosár, API. Knowledge base for operating an Unas webshop.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Közösségi összeállítás a nyilvános unas.hu/tudastar alapján"
+  },
+  "keywords": ["unas", "webshop", "webáruház", "e-commerce", "marketing", "elhagyott kosár", "hírlevél", "automata folyamatok"],
+  "license": "A skill saját szöveg; a hivatkozott unas.hu/tudastar tartalom az UNAS Online Kft. tulajdona."
+}

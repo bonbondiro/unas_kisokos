@@ -1,0 +1,13 @@
+{
+  "name": "unas-webshop-marketplace",
+  "owner": {
+    "name": "Közösségi összeállítás"
+  },
+  "plugins": [
+    {
+      "name": "unas-webshop",
+      "source": "./",
+      "description": "Unas (unas.hu) webáruház szakértői tudásbázis skill: admin funkciók, marketing- és automatizmus-logika, elhagyott kosár visszaszerzés, XML API."
+    }
+  ]
+}
